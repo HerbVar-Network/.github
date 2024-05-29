@@ -8,10 +8,15 @@ The Herbivory Variability Network is funded for 2022-2026 by the US National Sci
 
 --- 
 
-### On our Github Organization
+### Links to HerbVar Resources:
+
+- [Project website](https://herbvar.org/)
+- [Data upload portal](https://herbvar.shinyapps.io/data_portal_actual/)
+- [HerbVar Manual](https://herbvar-network.github.io/herbvar_manual/) (information for new collaborators, data collection protocols, etc.) 
 
 _Coming soon..._  
 
-- Code for several ongoing and published projects is available here.
-- Access to Datasets
-- Templates for adding your data
+- Code for ongoing and completed projects.
+- Data Archives
+- Dataset Downloads
+  
